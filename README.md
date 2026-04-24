@@ -10,7 +10,7 @@
 
 ## Data
 
-Here is [how I generated the transactions.csv file](hhttps://gemini.google.com/share/5b2e23e0bfea).
+Here is [how I generated the transactions.csv file](https://gemini.google.com/share/5b2e23e0bfea).
 
 Here is the file you should use for the Capstone: [transactions.csv](./transactions.csv)
 
