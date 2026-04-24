@@ -89,7 +89,7 @@ Use these as reference examples:
 ## Read File into Object
 
 - [Example of Reading a File](https://github.com/craigmckeachie/wb3-examples/blob/main/src/main/java/com/pluralsight/FileReaderExample.java)
-- [Reading a csv File into Objects](https://github.com/craigmckeachie/payroll-calculator/blob/main/src/main/java/com/pluralsight/App.java9)
+- [Reading a csv File into Objects](https://github.com/craigmckeachie/payroll-calculator/blob/main/src/main/java/com/pluralsight/App.java)
   - [Explanation of the Reading a csv File into Objects code](https://gemini.google.com/share/13e8571c59be)
 
 ## Write to File
