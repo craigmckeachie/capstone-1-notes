@@ -4,6 +4,11 @@
 
 - [Share Your Repository Here](https://docs.google.com/spreadsheets/d/13WrWNzOfjs91UOan0ee9owZ6cHfo6bcuIGqDGO6Rw3Q/edit?gid=1229912940#gid=1229912940)
 
+## Git Commit Messages
+
+- [Git Commit Message Discussion including Examples
+  ](https://gemini.google.com/app/9dcdb2ad3852242e)
+
 ## Support
 
 - [Sign up for support at the Help Desk](https://docs.google.com/spreadsheets/d/1UWuNC9R2MhbqtK6G_SofujeGhokevH7buV8egLxrNPE/edit?gid=998355056#gid=998355056)
