@@ -101,6 +101,14 @@ Use these as reference examples:
 
 - [Simple Example of Writing to a File](https://github.com/craigmckeachie/wb3-examples/blob/main/src/main/java/com/pluralsight/FileWriterExample.java)
 
+## Software Design
+
+- Question: What is going to be the most expensive thing (take the most programming time) that you do in the application?
+  - Answer: Reading and Writing to the transactions.csv file
+- Load all transactions when the application starts into a static variable ArrayList of Transaction objects at the top of your Program or App class above your main method
+- When you add transactions keep that ArrayList updated.
+- Now when you run any report or Ledger screen you will already have the transactions in memory and you won't need to read the file over and over again which is expensive.
+
 <!-- ## Example
 
 - [Pawsitive Playlist](https://www.youtube.com/playlist?list=PLovJOX3wAkpsqtVEbPtJSMhzfevMwN5Z6)
